@@ -3,10 +3,10 @@ Welcome to Boston University's RASTIC Lab Space! This repository holds the scrip
 
 
 ## Setup
-line_follower.py and cav_for_line_follower.py are for coordination on the RASTIC Ubuntu Dell laptop, while limo_cmd_listener.py is for the listener node on the limo. For simplicity, the files are already downloaded and set up in the RASTIC Linux Dell laptop and Limo#780. Further instructions can be found in the Tutorial Documentation. 
+line_follower.py and cav_for_line_follower.py are for coordination on the RASTIC Ubuntu Dell laptop, while limo_cmd_listener.py is for the listener node on the limo. For simplicity, the files are already downloaded and set up in the RASTIC Linux Dell laptop and Limo#780. Further instructions can be found in the Tutorial Documentation. vrpn_client_ros is a ros package for connecting to the Motion Capture Cameras, and is already built in the laptop as well. 
 
 We do not currently have detailed documentation on how to run this tutorial on a personal device. 
-If you had some experience in ROS and would like to run this tutorial on a personal device, download the three python files and build a workspace and package for them. Secure copy (scp) the workspace onto a Limo of your choice, and rebuild the workspace in the Limo. To connect to the Motion Capture Cameras, build the vrpn_client_node package into the same workspace. 
+If you had some experience in ROS and would like to run this tutorial on a personal device, download the three python files and build a workspace and package for them. Secure copy (scp) the workspace onto a Limo of your choice, and rebuild the workspace in the Limo. To connect to the Motion Capture Cameras, build the vrpn_client_ros package into the same workspace. 
 
 ## Before you start
 
