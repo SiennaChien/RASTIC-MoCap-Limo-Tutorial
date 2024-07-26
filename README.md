@@ -12,4 +12,4 @@ If you had some experience in ROS and would like to run this tutorial on a perso
 
 Please talk to a RASTIC employee before starting this tutorial. To prevent any accidental injuries and damage to the Limos, we recommend you to do this tutorial in pairs, or to have a RASTIC employee assist you. 
 
-The detailed documentation can be found in the RASTIC Google Drive, under "Manuals and Machine Instructions" -> "RASTIC Written Manuals" -> "Motion Capture & AgileX Limo Tutorial.pdf" or can be viewed [here](https://drive.google.com/file/d/1GxMvOqho1vlr5g5xVx1SV0V92FE-8llr/view?usp=sharing  "here")
+The detailed documentation can be found in the RASTIC Google Drive, under "Manuals and Machine Instructions" -> "RASTIC Written Manuals" -> "Motion Capture & AgileX Limo Tutorial.pdf" or can be viewed [here](https://drive.google.com/file/d/1q9NDgcbJeZ9AusGzr6R6lM0c8bUHpnN8/view?usp=sharing  "here")
